@@ -1,0 +1,7 @@
+def add_num(a,b):
+    sum=a+b;
+    return sum; 
+
+num1=2.456 
+num2=55.54
+print("The sum is",add_num(num1,num2))
