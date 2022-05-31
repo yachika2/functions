@@ -1,0 +1,10 @@
+a=int(input())
+if(a==1900):
+    print("False")
+elif(a==2000):
+    print("True")
+else:
+    if(a%4==0):
+        print("True")
+    else:
+        print("False")
